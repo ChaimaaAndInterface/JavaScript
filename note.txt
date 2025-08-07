@@ -11,5 +11,8 @@
 - a scintific way to communicate with computer 
 - use on (1) off (0) method 
 
-
+3) environment setup 
+- browser (google chrome)
+- text editor (vs code)
+- install node
 
