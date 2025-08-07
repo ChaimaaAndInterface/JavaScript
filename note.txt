@@ -16,3 +16,16 @@
 - text editor (vs code)
 - install node
 
+4) javascript statement 
+- all of instruction in javascript refer as a statement 
+example; 
+document.getElementById('title').innerHTML = "Hello World!"; 
+- we need to use (;) if statement is more than one. 
+- to make multiline statement we will use {} in our programs. example; 
+let sum = 150;  
+
+if (sum > 100) {
+    console.log("Expensive");
+} else {
+    console.log("Cheap"); 
+}
