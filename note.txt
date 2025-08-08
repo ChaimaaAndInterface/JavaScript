@@ -29,3 +29,7 @@ if (sum > 100) {
 } else {
     console.log("Cheap"); 
 }
+
+5) javascript syntax 
+- it's like as a grammer for programming language 
+- a syntaxerror is a type of error that is thrown when there is a typo in the code, creating invalid code - code which cannot be interpret 
